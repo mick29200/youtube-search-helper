@@ -1,4 +1,4 @@
-# YouTube Search Helper – Engineering
+# YouTube Search Helper GTA5 – Engineering
 
 This is a lightweight Tampermonkey userscript that provides a small floating interface
 to quickly open recent worldwide YouTube search results using custom keywords.
