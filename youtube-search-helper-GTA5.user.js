@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Search assistance tool – recent worldwide results
-// @author       Nascheka
+// @author       Michel Laurence  Nascheka
 // @match        *://www.youtube.com/*
 // @match        *://studio.youtube.com/*
 // @grant        none
